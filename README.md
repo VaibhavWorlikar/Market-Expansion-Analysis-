@@ -1,4 +1,4 @@
-S# Market Expansion Analysis for Japanese Car Company
+# Market Expansion Analysis for Japanese Car Company
 
 This project focuses on analyzing the potential market success of a Japanese car company in India. The company has been successful in Japan and aims to assess its prospects in the Indian market through data-driven insights.
 
